@@ -31,6 +31,7 @@ This repository contains the code, configuration manifests, evidence screenshots
 * **`api.py`**: Updated FastAPI application featuring version indicators to test zero-downtime rolling updates.
 * **`Dockerfile.multi`**: Multi-stage build file used to compile versioned image tags (`v1` and `v2`) for the deployment lifecycle.
 
+* There is a folder named "evidence" in each of the above folders which consists of the screenshots from the terminal which were used to set up and run the code.
 ---
 
 ## Setup and Execution Instructions
