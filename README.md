@@ -7,7 +7,7 @@ This repository contains the code, configuration manifests, evidence screenshots
 ## Repository Structure & File Functionality
 
 ### Root Directory
-* **`Assignment 2.pdf`**: Comprehensive two-page report detailing methodologies, analysis, and empirical evidence for all assignment questions.
+* **`AIOps_2.pdf`**: Comprehensive two-page report detailing methodologies, analysis, and empirical evidence for all assignment questions.
 
 ### `Q1/` (Docker & Multi-Stage Builds)
 * **`Dockerfile`**: Naive single-stage Docker build configuration for packaging the spam-detection REST API.
